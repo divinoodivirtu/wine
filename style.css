@@ -1,0 +1,110 @@
+* a, * h2, * #intestazione p{
+	font-family:Pacifico;
+	font-size:2em;
+}
+.sm-card{
+	margin:68px;
+	margin-top:10px!important;
+}
+#intestazione{
+	background-color: #8B0000;
+	height:140px;
+}
+#intestazione h2, #intestazione p{
+	color: white;
+	width: 450px;
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+}
+* h2{
+	font-size: 3em!important;
+}
+.card a {
+	background-color: #8B0000;
+	border: none;
+}
+main .row{
+	max-height: 2000px;
+	background-image: url(fiume.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.card img {
+    border-radius: 60px;
+}
+.card {
+	border: none!important;
+	height: 560px;
+}
+
+#colophon{
+  width:100%;
+  background-color: black;
+}
+#colophon p{
+  color: white;
+}
+#manifesto h1{
+	font-size: 1.5em;
+	font-family: Pacifico;
+	color: white;
+	text-align: center;
+}
+.col-md-8{
+	background-color: white;
+	height: 65%;
+}
+* h3{
+	color:  #8B0000;
+}
+#manifesto{
+	width: 99%;
+	background-color: #8b0000cf;
+}
+.row{
+	max-width: 100%;
+}
+main .youtube{
+	position: relative;
+	margin: 0px auto;
+}
+#video1 p, #video1 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family:Pacifico;
+	font-size: 2.5em;
+	background-color: #8B0000;
+	color: white;
+}
+#video2 p, #video2 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family:Pacifico;
+	font-size: 2.5em;
+	background-color: #8B0000;
+	color: white;
+}
+#video3 p, #video3 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family:Pacifico;
+	font-size: 2.5em;
+	background-color: #8B0000;
+	color: white;
+}
+#wines ul{
+	background-color: #8b00008c;
+	color: white;
+	font-family:Times New Roman;
+	font-size: 1.2em;
+}
+#wines p{
+	font-size: 1.5em;
+	font-family: Pacifico;
+}
